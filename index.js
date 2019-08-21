@@ -1,4 +1,4 @@
-const nativefier = require('nativefier').default;
+const nativefier = require('@fbcpck/nativefier').default;
 
 const W = 1280;
 const H = 740;
