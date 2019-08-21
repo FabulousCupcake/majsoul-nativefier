@@ -1,0 +1,22 @@
+{
+  "name": "majsoul-nativefier",
+  "version": "1.0.0",
+  "description": "Nativefier setup on Mahjong Soul",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabulousCupcake/majsoul-nativefier.git"
+  },
+  "author": "FabulousCupcake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabulousCupcake/majsoul-nativefier/issues"
+  },
+  "homepage": "https://github.com/FabulousCupcake/majsoul-nativefier#readme",
+  "dependencies": {
+    "@fbcpck/nativefier": "^7.6.13"
+  }
+}
