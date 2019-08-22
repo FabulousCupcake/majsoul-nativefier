@@ -1,6 +1,8 @@
 # Majsoul Nativefier
 This repository contains [nativefier][1] configuration to wrap [Mahjong Soul][2] with Electron.
 
+_**Disclaimer:** This repository and its contents are not affiliated, associated, or in any way officially connected with Mahjong Soul. All names, logos, images, and brands are property of their respective owners._
+
 ## Usage
 ```bash
 # Install dependencies
@@ -20,3 +22,4 @@ A personal recommendation is [Cronos Pro](https://fonts.adobe.com/fonts/cronos) 
 [3]: https://github.com/FabulousCupcake/nativefier
 [4]: index.js
 [5]: https://fonts.adobe.com/fonts/cronos
+
