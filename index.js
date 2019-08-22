@@ -1,4 +1,4 @@
-const nativefier = require('@fbcpck/nativefier').default;
+const nativefier = require('nativefier').default;
 
 const W = 1280;
 const H = 740;
@@ -23,6 +23,7 @@ var options = {
     fastQuit: true,
     singleInstance: true,
     showMenuBar: false,
+    darwinDarkModeSupport: true,
 
     browserwindowOptions: {
         webPreferences: {
