@@ -11,6 +11,7 @@ var options = {
     out: './dist',
     overwrite: true,
     asar: true,
+    icon: "icons/mahjong-soul-app-icon.png",
 
     width: W,
     height: H,
